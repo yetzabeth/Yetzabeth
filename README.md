@@ -21,6 +21,19 @@ font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&h
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- <br><br>
+
+- :mortar_board: Soy `Ingeniero Civil` graduada de la [Universidad Nacional Experimental de las Fuerzas Armadas (UNEFA)](http://unefa.edu.ve/) en Venezuela (2008-2013).
+- :computer: Recientemente me gradué de los `Fundamentos en Programación` en [Holberton School](https://www.holbertonschool.com/) en Montevideo, Uruguay (Junio 2023 - Marzo 2024).
+- :trophy: Participé como finalista en el `ACPC` dos veces.
+- :technologist: Me encanta usar el software como solución para cada `problema`.
+- :brain: Soy programadora competitiva en `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :student: Actualmente estoy enfocada en seguir aprendiendo en el área de `Programación` y `Desarrollo de Software`.
+- :bulb: Siempre en búsqueda de `nuevos conocimientos` y desafíos.
+- :briefcase: Estoy abierta a nuevas `oportunidades laborales`, puedes encontrar mi [RESUMEN](http://lnkiy.in/Ahmed_Hossam_Resume) aquí.
+- :boom: Visita [MI SITIO WEB](https://cutt.ly/Ahmed_Hossam_Website) para conocer más detalles sobre mí y mi trabajo.
+<br>
+
 <br>
 
 
