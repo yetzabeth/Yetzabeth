@@ -21,7 +21,7 @@
 
 ### Backend
 
-#### Lenguajes de Programación
+#### - Lenguajes de Programación
 <p align="center"> 
   &emsp; 
   <a href="#"> 
@@ -47,7 +47,7 @@
 
 ### Frontend
 
-#### Frameworks y Tecnologías
+#### - Frameworks y Tecnologías
 <p align="center"> 
   &emsp; 
   <a href="#"> 
@@ -69,7 +69,7 @@
 
 ### Tecnologías y Herramientas
 
-#### Desarrollo de Proyectos
+#### - Desarrollo de Proyectos
 <p align="center"> 
   &emsp; 
   <a href="#"> 
@@ -97,7 +97,7 @@
   </a>
 </p>
 
-#### IDEs y Entornos de Desarrollo
+#### - IDEs y Entornos de Desarrollo
 <p align="center"> 
   &emsp; 
   <a href="#"> 
@@ -109,7 +109,7 @@
   </a>
 </p>
 
-#### Cloud y APIs
+#### - Cloud y APIs
 <p align="center"> 
   &emsp; 
   <a href="#"> 
