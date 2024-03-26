@@ -1,11 +1,6 @@
 <h1 align="center">¡Hola, soy Yetzabeth Hernández! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <img src="https://github.com/yetzabeth/Yetzabeth/blob/main/civil%20y%20programacion%202.png" alt="Imagen" width="900" height="300">
-</p>
-<p align="center">
-font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
-</p>
-
 <br>
 	
 ## <picture><img src = "https://github.com/yetzabeth/Yetzabeth/blob/main/avatar%20de%20mujer.jpg" width = 80px></picture> Acerca de mi
@@ -13,29 +8,13 @@ font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&h
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- :school: Graduada de [Funadamentos Básicos de Programación](https://holbertonschool.uy/fundamentos/) en [Holberton School](https://holbertonschool.uy/).
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
-- <br><br>
-
-- :mortar_board: Soy `Ingeniero Civil` graduada de la [Universidad Nacional Experimental de las Fuerzas Armadas (UNEFA)](http://unefa.edu.ve/) en Venezuela (2008-2013).
-- :computer: Recientemente me gradué de los `Fundamentos en Programación` en [Holberton School](https://www.holbertonschool.com/) en Montevideo, Uruguay (Junio 2023 - Marzo 2024).
-- :trophy: Participé como finalista en el `ACPC` dos veces.
+- :mortar_board: Soy `Ingeniero Civil` graduada de la [Universidad Nacional Experimental de las Fuerzas Armadas (UNEFA)](http://unefa.edu.ve/) en Venezuela.
+- :school: Recientemente me gradué de [Fundamentos Básicos de Programación](https://holbertonschool.uy/fundamentos/) en [Holberton School](https://holbertonschool.uy/).
 - :technologist: Me encanta usar el software como solución para cada `problema`.
-- :brain: Soy programadora competitiva en `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :brain: Soy programadora competitiva.
 - :student: Actualmente estoy enfocada en seguir aprendiendo en el área de `Programación` y `Desarrollo de Software`.
 - :bulb: Siempre en búsqueda de `nuevos conocimientos` y desafíos.
-- :briefcase: Estoy abierta a nuevas `oportunidades laborales`, puedes encontrar mi [RESUMEN](http://lnkiy.in/Ahmed_Hossam_Resume) aquí.
-- :boom: Visita [MI SITIO WEB](https://cutt.ly/Ahmed_Hossam_Website) para conocer más detalles sobre mí y mi trabajo.
 <br>
-
-<br>
-
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
