@@ -39,6 +39,10 @@
   <a href="#"> 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
   </a>
+  &emsp;
+  <a href="#"> 
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1.svg?style=plastic&logo=sql&logoColor=white">
+  </a>
 </p>
 
 ### Frontend
@@ -122,5 +126,9 @@
   &emsp;
   <a href="#"> 
     <img alt="Firebase Authentication" src="https://img.shields.io/badge/Firebase%20Authentication-%23039BE5.svg?style=plastic&logo=firebase&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="#"> 
+    <img alt="Firebase Realtime Database" src="https://img.shields.io/badge/Firebase%20Realtime%20Database-%23039BE5.svg?style=plastic&logo=firebase&logoColor=white">
   </a> 
 </p>
