@@ -5,7 +5,7 @@
 	
 ## <picture><img src = "https://github.com/yetzabeth/Yetzabeth/blob/main/avatar%20de%20mujer.jpg" width = 80px></picture> Acerca de mi
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/yetzabeth/Yetzabeth/blob/main/mujer-code.gif?raw=true" width = 250px></picture>
 
 <br><br>
 - :mortar_board: Soy `Ingeniero Civil` graduada de la [Universidad Nacional Experimental de las Fuerzas Armadas (UNEFA)](http://unefa.edu.ve/) en Venezuela.
