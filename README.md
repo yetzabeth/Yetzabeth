@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy Yetzabeth Hernández!</h1>
+<h1 align="center">¡Hola, soy Yetzabeth Hernández! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <img src="https://github.com/yetzabeth/Yetzabeth/blob/main/civil%20y%20programacion%202.png" alt="Imagen" width="900" height="300">
 </p>
