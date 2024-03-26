@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola, soy Yetzabeth Hernández!</h1>
 <p align="center">
-  <img src="https://github.com/yetzabeth/Yetzabeth/blob/main/civil%20y%20programacion%202.png" alt="Imagen" width="1000" height="350">
+  <img src="https://github.com/yetzabeth/Yetzabeth/blob/main/civil%20y%20programacion%202.png" alt="Imagen" width="900" height="300">
 </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
