@@ -37,7 +37,7 @@
    </a>
   &emsp;
   <a href="#"> 
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1.svg?style=plastic&logo=sql&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
   </a>
 </p>
 
@@ -83,6 +83,14 @@
   <a href="#"> 
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase">
   </a>
+  &emsp;
+  <a href="#"> 
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#"> 
+    <img alt="Google Developer" src="https://img.shields.io/badge/Google%20Developer-%234285F4.svg?style=plastic&logo=google&logoColor=white">
+  </a>
 </p>
 
 #### IDEs y Entornos de Desarrollo
@@ -93,11 +101,7 @@
   </a> 
   &emsp;
   <a href="#"> 
-    <img alt="JetBrains" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="#"> 
-    <img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white">
   </a>
 </p>
 
@@ -110,5 +114,13 @@
   &emsp;
   <a href="#"> 
     <img alt="Google Geocoding API" src="https://img.shields.io/badge/Google%20Geocoding%20API-%234285F4.svg?style=plastic&logo=google-maps&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="#"> 
+    <img alt="Firebase Firestore" src="https://img.shields.io/badge/Firebase%20Firestore-%23039BE5.svg?style=plastic&logo=firebase&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="#"> 
+    <img alt="Firebase Authentication" src="https://img.shields.io/badge/Firebase%20Authentication-%23039BE5.svg?style=plastic&logo=firebase&logoColor=white">
   </a> 
 </p>
